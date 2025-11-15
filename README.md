@@ -18,7 +18,7 @@ I just wanted to share references and actually explain them in the moment, witho
 So I built the AskPerplexity Bot, a Discord bot that integrates with Perplexity AI to instantly answer questions right in our chat.
 Now we can explain references as fast as we make them, relive our favorite moments together, and keep the conversation flowing without those awkward Google breaks. 
 
-Also, he proposed to me after I built this bot. Causal or Corelated? Dunno, but its a win-win!
+***Also, he proposed to me after I built this bot. Causal or Corelated? Dunno, but its a win-win!***
 
 <img width="1071" height="546" alt="Screenshot 2025-11-14 at 8 10 06 PM" src="https://github.com/user-attachments/assets/aac5bc5c-0da0-415b-922c-22828c11827d" />
 
