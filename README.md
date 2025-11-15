@@ -12,7 +12,7 @@ _Me: scrolling through 47 Reddit threads trying to find it_
 
 _Me: finally sends link_
 
-_Him: has already moved on to a completely different topic__
+_Him: has already moved on to a completely different topic_
 
 I just wanted to share references and actually explain them in the moment, without killing the vibe of our conversation, you know?
 So I built the AskPerplexity Bot, a Discord bot that integrates with Perplexity AI to instantly answer questions right in our chat.
