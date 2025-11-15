@@ -1,10 +1,24 @@
 # AskPerplexity Discord Bot
 
-My boyfriend and I quiz eachother on random Netflix Series, and we are chronically on Discord. I like winning debates and being able to fact check him in the middle of an argument. I got tired of having to Google some obscure plot, send him a link, and then win an argument.
-So I built the AskPerplexity Bot, a simple Discord bot that integrates with Perplexity AI to answer questions directly in your Discord server.
-I now win quickly. :)
+My boyfriend and I are chronically online, and our Discord chats are basically 90% Netflix references, meme quotes, Instagram reels, and random YouTuber dialogues. The problem? We're constantly trying to remember who said what, which episode it's from, or where that one specific meme came from.
+Our conversations kept going like this:
 
-Also, he proposed to me after I built this bot. Win-Win!
+_Me: *drops obscure reference_
+
+_Him: "Wait, what's that from again?"_
+
+_Me: *frantically Googling while he keeps texting_
+_Me: scrolling through 47 Reddit threads trying to find it_
+
+_Me: finally sends link_
+
+_Him: has already moved on to a completely different topic__
+
+I just wanted to share references and actually explain them in the moment, without killing the vibe of our conversation, you know?
+So I built the AskPerplexity Bot, a Discord bot that integrates with Perplexity AI to instantly answer questions right in our chat.
+Now we can explain references as fast as we make them, relive our favorite moments together, and keep the conversation flowing without those awkward Google breaks. 
+
+Also, he proposed to me after I built this bot. Causal or Corelated? Dunno, but its a win-win!
 
 ## Features
 
