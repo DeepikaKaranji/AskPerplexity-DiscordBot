@@ -13,6 +13,10 @@ Also, he proposed to me after I built this bot. Win-Win!
 - Handles long responses by splitting them into multiple messages
 - Simple and easy to set up
 
+<img width="1020" height="320" alt="Screenshot 2025-11-14 at 7 41 05 PM" src="https://github.com/user-attachments/assets/f8dbbbff-8603-48d9-a6eb-4b219e557b58" />
+
+
+
 ## Setup Instructions
 
 ### 1. Get Your API Keys
