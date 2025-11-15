@@ -72,10 +72,7 @@ In any Discord channel where the bot has access:
 ## Customization
 
 - **Change the command prefix:** Edit `command_prefix='!'` in the bot setup
-- **Change the model:** Modify the `model` parameter in the API call. Available models:
-  - `llama-3.1-sonar-small-128k-online` (fast, good for most queries)
-  - `llama-3.1-sonar-large-128k-online` (more powerful, slower)
-  - `llama-3.1-sonar-huge-128k-online` (most capable)
+- **Change the model:** Modify the `model` parameter in the API call. This project uses 'sonar'
 
 ## Troubleshooting
 
