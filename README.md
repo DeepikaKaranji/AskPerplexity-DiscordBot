@@ -1,6 +1,8 @@
 # Perplexity Discord Bot
 
-A simple Discord bot that integrates with Perplexity AI to answer questions directly in your Discord server.
+My boyfriend and I quiz eachother on random Netflix Series, and we are chronically on Discord. I like winning arguments and being able to fact check him in the middle of an argument. I got tired of having to Google some obscure plot, send him a link, and then win an argument.
+So I built the AskPerplexity Bot, a simple Discord bot that integrates with Perplexity AI to answer questions directly in your Discord server.
+I now win arguments quickly. :)
 
 ## Features
 
