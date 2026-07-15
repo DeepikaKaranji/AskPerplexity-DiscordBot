@@ -1,25 +1,26 @@
 # AskPerplexity Discord Bot
 ### Powered by Sonar
+AskPerplexity is a Discord bot powered by Perplexity AI that answers questions and explains references instantly, right in the chat, so conversations never have to pause for a Google search.
 
 My partner and I are chronically online, and our Discord chats are basically 90% Netflix references, meme quotes, Instagram reels, and random YouTuber dialogues. The problem? We're constantly trying to remember who said what, which reel or movie it's from, or where that one specific meme came from.
-Our conversations kept going like this:
+You might be familiar with these type of conversations on discord:
 
-_Me: *drops obscure reference_
+```mermaid
+flowchart TD
+    A["🗣️ Me: drops obscure reference"] --> B["🤔 Him: 'Wait, what's that from again?'"]
+    B --> C["😤 Me: frantically Googling<br/>while he keeps texting"]
+    C --> D["🌀 Me: scrolling through<br/>47 Reddit threads"]
+    D --> E["🔗 Me: finally sends link"]
+    E --> F["💨 Him: has already moved on<br/>to a completely different topic"]
+    F -.->|"vibe: officially killed"| A
+```
 
-_Him: "Wait, what's that from again?"_
-
-_Me: *frantically Googling while he keeps texting_
-_Me: scrolling through 47 Reddit threads trying to find it_
-
-_Me: finally sends link_
-
-_Him: has already moved on to a completely different topic_
 
 I just wanted to share references and actually explain them in the moment, without killing the vibe of our conversation, you know?
 So I built the AskPerplexity Bot, a Discord bot that integrates with Perplexity AI to instantly answer questions right in our chat.
 Now we can explain references as fast as we make them, relive our favorite moments together, and keep the conversation flowing without those awkward Google breaks. 
 
-***Also, he proposed to me after I built this bot. Causal or Corelated? Dunno, but its a win-win!***
+
 
 <img width="1071" height="546" alt="Screenshot 2025-11-14 at 8 10 06 PM" src="https://github.com/user-attachments/assets/aac5bc5c-0da0-415b-922c-22828c11827d" />
 
