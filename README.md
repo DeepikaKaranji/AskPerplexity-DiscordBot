@@ -1,7 +1,7 @@
 # AskPerplexity Discord Bot
 ### Powered by Sonar
 
-My boyfriend (now fiance) and I are chronically online, and our Discord chats are basically 90% Netflix references, meme quotes, Instagram reels, and random YouTuber dialogues. The problem? We're constantly trying to remember who said what, which reel or movie it's from, or where that one specific meme came from.
+My partner and I are chronically online, and our Discord chats are basically 90% Netflix references, meme quotes, Instagram reels, and random YouTuber dialogues. The problem? We're constantly trying to remember who said what, which reel or movie it's from, or where that one specific meme came from.
 Our conversations kept going like this:
 
 _Me: *drops obscure reference_
